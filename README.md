@@ -15,14 +15,4 @@ Content-based recommendation system using NLP preprocessing and TF-IDF vectoriza
 - WordCloud (EDA)
 
 ## Project structure
-nlp-recommendation-system/
-├── data/
-│   └── movies.csv              # your dataset (local)
-├── src/
-│   ├── preprocess.py
-│   ├── vectorizer.py
-│   ├── recommender.py
-│   └── __init__.py
-├── main.py
-├── requirements.txt
-└── README.md
+
